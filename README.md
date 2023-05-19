@@ -1,0 +1,2 @@
+# PracApps
+Collection of applications
